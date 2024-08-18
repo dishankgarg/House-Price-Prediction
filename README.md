@@ -27,14 +27,4 @@ Model creation involves training a predictive model on the preprocessed data. Th
 - **Evaluating the Model**: Assess model performance using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or R-squared.
 - **Tuning Hyperparameters**: Optimize model performance by adjusting hyperparameters.
 
-### Usage
 
-1. **Preprocess Data**: Run the data preprocessing scripts to clean and prepare the dataset.
-2. **Train Model**: Execute the model creation scripts to train and evaluate the predictive model.
-3. **Predict Prices**: Use the trained model to predict house prices based on new input data.
-
-For detailed instructions, refer to the `docs/` directory.
-
----
-
-Feel free to modify the steps and details according to your project's specifics!
